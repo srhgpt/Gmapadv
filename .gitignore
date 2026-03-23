@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+output.txt
+numbers.txt
+results.txt
+keywords.txt
